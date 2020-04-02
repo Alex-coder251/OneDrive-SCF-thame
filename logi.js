@@ -44,7 +44,7 @@ const ADD_UMBRELLA_BACKGROUND = (callback) => {
 };
 
 const ADD_IMGAGE_BACKGROUND = () => {
-    const IMAGE = 'url(//imgchr.com/content/images/system/home_cover_1552414407320_3a5f92.jpg)'
+    const IMAGE = 'url(//cdn.aixifan.com/acfun-pc/2.8.72/img/page/space/bg.jpg)'
     const DIV = document.createElement('div');
     DIV.style.background = IMAGE;
     DIV.style.pointerEvents = 'none';
